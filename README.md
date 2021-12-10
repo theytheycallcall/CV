@@ -1,2 +1,2 @@
 # CV
-my persobal page
+my personal page
